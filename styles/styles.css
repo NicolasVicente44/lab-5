@@ -76,6 +76,7 @@ ol,
 a {
     font-size: 2rem;
     font-family: 'Roboto Slab', serif;
+    color: #a66;
 }
 
 body {
@@ -152,6 +153,7 @@ nav ul {
 nav li {
     display: inline-block;
     margin-right: 20px;
+    color: #a66;
 }
 
 nav a {
@@ -162,6 +164,7 @@ nav a {
     transition: color 0.2s ease-in-out;
     font-size: 1.7em;
     padding: 0.1em;
+    color: #a66;
 }
 
 nav a:hover {
